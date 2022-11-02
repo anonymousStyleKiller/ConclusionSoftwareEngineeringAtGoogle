@@ -11,7 +11,7 @@ The main idea of this repository to help other developers to get conclusions of 
 I obstinately recommend reading the whole book. 
 </i>
 
-<h3>Part 1</h3>
+<h3>Part 1. Thesis</h3>
 <h4>Chapter 1. What Is Software Engineering?</h4>
 
 <ul>
@@ -36,6 +36,21 @@ makes up the majority of those inputs, but it can rarely be all of them.</li>
 <li>Being data driven over time implies the need to change directions when the data
 changes (or when assumptions are dispelled). Mistakes or revised plans are inevitable.</li>
 </ul>
+
+<h3>Part 2. Culture</h3>
+<h4>Chapter 2. How to Work Well on Teams?</h4>
+
+<ul>
+<li>Be aware of the trade-offs of working in isolation.</li>
+<li>Acknowledge the amount of time that you and your team spend communicating
+and in interpersonal conflict. A small investment in understanding personalities
+and working styles of yourself and others can go a long way toward improving
+productivity.</li>
+<li>If you want to work effectively with a team or a large organization, be aware of
+your preferred working style and that of others.</li>
+</ul>
+
+
 
 
 
