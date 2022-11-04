@@ -50,8 +50,19 @@ productivity.</li>
 your preferred working style and that of others.</li>
 </ul>
 
+<h4>Chapter 3. Knowledge Sharing</h4>
 
 
-
-
+<ul>
+<li>Psychological safety is the foundation for fostering a knowledge-sharing
+environment.</li>
+<li>Start small: ask questions and write things down.</li>
+<li>Make it easy for people to get the help they need from both human experts and
+documented references.</li>
+<li>At a systemic level, encourage and reward those who take time to teach and
+broaden their expertise beyond just themselves, their team, or their organization.</li>
+<li>There is no silver bullet: empowering a knowledge-sharing culture requires a
+combination of multiple strategies, and the exact mix that works best for your
+organization will likely change over time.</li>
+</ul>
 
